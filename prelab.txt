@@ -1,0 +1,25 @@
+<html>
+<title>Shreya CS24175</title>
+<body>
+Junk Food
+<h1>hot dog</h1>
+<h2>burger</h2>
+<h3>pizza</h3>
+<h4>pasta</h4>
+<h5>sandwich</h5>
+<h6>fried momos</h6>
+<h1>french fries</h1>
+<h2>fried chicken</h2>
+<h3>mozzarella sticks</h3>
+<h4>steam momos</h4>
+<h5>noodles</h5>
+<h6>nachos</h6>
+<h1>cheese puff</h1>
+<h2>maggi</h2>
+<h3>vadapav</h3>
+<h4>pav bhaji</h4>
+<h5>samosa</h5>
+<h6>missal pav</h6>
+<h1>mac and chess bites</h1>
+<h2>chicken nuggets</h2>
+</body>
